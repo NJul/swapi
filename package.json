@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://NJul.github.io/swapi/",
+  "homepage": "https://NJul.github.io/swapi",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
